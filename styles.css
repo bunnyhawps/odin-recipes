@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    background-color: red;
+    color: yellow;
+}
+
+p {
+    font-size: 20px;
+    color: green;
+}
+
+.ingredients {
+    color: blue;
+    background-color: burlywood;
+}
+
+li {
+    background-color: lightpink;
+}
