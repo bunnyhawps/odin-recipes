@@ -5,6 +5,9 @@ body {
 h1 {
     background-color: red;
     color: yellow;
+    padding: 8px;
+    margin: 25px 50px;
+    text-align: center;
 }
 
 p {
@@ -18,5 +21,34 @@ p {
 }
 
 li {
-    background-color: lightpink;
+    padding: 8px;
+}
+
+button {
+    padding: 15px;
+    margin: auto 5px;
+    background-color: red;
+    display: block;
+}
+
+.recipes .steak {
+    background-color: salmon;
+    margin-bottom: 8px;
+}
+
+.recipes .corn {
+    background-color: yellow;
+    margin-bottom: 8px;
+}
+
+.recipes .potato {
+    background-color: bisque;
+    margin-bottom: 8px;
+}
+
+.sub {
+    color: white;
+    font-weight: bold;
+    display: inline-block;
+    margin: 10px;
 }
