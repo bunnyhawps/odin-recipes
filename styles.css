@@ -18,10 +18,12 @@ p {
 .ingredients {
     color: blue;
     background-color: burlywood;
+    margin: 5px auto;
+    padding: 2px;
 }
 
 li {
-    padding: 8px;
+    padding: 4px;
 }
 
 button {
@@ -51,4 +53,9 @@ button {
     font-weight: bold;
     display: inline-block;
     margin: 10px;
+    border: 2px solid black;
+}
+
+div {
+    display: flex;
 }
