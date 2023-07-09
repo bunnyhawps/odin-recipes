@@ -48,6 +48,10 @@ button {
     margin-bottom: 8px;
 }
 
+img {
+    text-align: center;
+}
+
 .sub {
     color: white;
     font-weight: bold;
@@ -58,4 +62,6 @@ button {
 
 div {
     display: flex;
+    justify-content: center;
+    gap: 100px;
 }
